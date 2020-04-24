@@ -1,0 +1,33 @@
+{
+  "name": "mern-boilerplate",
+  "version": "1.0.0",
+  "description": "Fullstack skeleton base project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romuloguimaraes/mern-boilerplate.git"
+  },
+  "keywords": [
+    "javascript",
+    "es5",
+    "es6",
+    "node",
+    "express",
+    "react",
+    "mongo",
+    "isomorphic",
+    "fullstack"
+  ],
+  "author": "Rômulo de F Guimarães",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romuloguimaraes/mern-boilerplate/issues"
+  },
+  "homepage": "https://github.com/romuloguimaraes/mern-boilerplate#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
