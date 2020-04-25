@@ -1,13 +1,12 @@
 import React, { Fragment } from 'react';
 import { hot } from 'react-hot-loader';
-import User from './User';
 
 let user = { name: 'Tony' };
 
 const App = () => {
   return (
     <Fragment>
-      <User user={user} />;
+      <div>Tony Stark</div>
     </Fragment>
   );
 };
