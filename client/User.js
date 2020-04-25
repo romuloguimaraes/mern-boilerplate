@@ -1,5 +1,5 @@
 import React from 'react';
 
-export const User = () => {
-  return <div>Tony</div>;
+export const User = (props) => {
+  return <div>{props.user.name}</div>;
 };
